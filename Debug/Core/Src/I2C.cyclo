@@ -1,0 +1,5 @@
+../Core/Src/I2C.c:10:6:I2C_Config	1
+../Core/Src/I2C.c:40:6:I2C_Start	2
+../Core/Src/I2C.c:47:6:I2C_Write	3
+../Core/Src/I2C.c:55:6:I2C_Address	2
+../Core/Src/I2C.c:62:6:I2C_Stop	1
